@@ -44,4 +44,46 @@
 
 ---
 
+## ✨ Personal Snapshot
+
+> _"I believe growth happens outside comfort zones —  
+> every project I build brings me one step closer to the developer I aim to be."_
+
+💠 **Motivated • Curious • Code Lover**  
+💠 Always improving & building new ideas  
+💠 Turning challenges into learning opportunities  
+
+---
+
+## 🏆 My Journey (Mini Timeline)
+
+| Year | Milestone |
+|------|-----------|
+| 2023 | Started learning Web Development |
+| 2024 | Joined Creative IT Institute (MERN Batch 2501) |
+| 2024-25 | Building projects, solving errors, growing daily |
+| Future | Become a full-time Web Developer 🚀 |
+
+---
+
+## 🎯 My Goals
+
+- 🌐 Build visually modern & fast web applications
+- 🛠 Improve backend logic & API development
+- 🏆 Become a skilled MERN Stack Developer
+- 🌍 Work on real-world industry level projects
+- 📦 Contribute to open-source in future
+
+---
+
+## ❤️ What I Love Doing
+
+🚀 Learning new technologies  
+🎨 Designing UI with TailwindCSS  
+💬 Helping others solve bugs  
+⚡ Exploring Next.js features  
+🧪 Experimenting with animations + optimization  
+
+---
+
 ## ✨ Thanks for visiting my profile!
