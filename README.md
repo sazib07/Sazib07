@@ -2,6 +2,18 @@
 <h3 align="center">Web Developer (Beginner / Intermediate)</h3>
 
 ---
+<div id="lottie-container"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.6/lottie.min.js"></script>
+<script>
+  lottie.loadAnimation({
+    container: document.getElementById('lottie-container'),
+    renderer: 'svg',
+    loop: true,
+    autoplay: true,
+    path: '/path/to/web-dev-animation.json'
+  });
+</script>
+
 
 ## 🌟 About Me
 - 🎓 Studying at *Dhaka College*
