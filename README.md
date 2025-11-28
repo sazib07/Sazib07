@@ -83,7 +83,6 @@
 
 🚀 Learning new technologies  
 🎨 Designing UI with TailwindCSS  
-💬 Helping others solve bugs  
 ⚡ Exploring Next.js features  
 🧪 Experimenting with animations + optimization  
 
