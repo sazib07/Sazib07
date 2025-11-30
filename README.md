@@ -65,7 +65,8 @@
 |------|-----------|
 
 | 2025 | Joined Creative IT Institute (MERN Batch 2501) |
-| 2024-25 | Building projects, solving errors, growing daily |
+|April 2025 | Started learning Web Development |
+| Present | Building projects, solving errors, growing daily |
 | Future | Become a full-time Web Developer 🚀 |
 
 ---
