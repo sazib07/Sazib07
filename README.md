@@ -69,7 +69,7 @@
 | Present | Building projects, solving errors, growing daily |
 | Future | Become a full-time Web Developer 🚀 |
 
----
+--
 
 ## 🎯 My Goals
 
