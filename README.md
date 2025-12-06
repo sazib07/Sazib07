@@ -79,7 +79,7 @@
 - 🌍 Work on real-world industry level projects
 - 📦 Contribute to open-source in future
 
----
+--
 
 ## ❤️ What I Love Doing
 
