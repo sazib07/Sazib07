@@ -88,6 +88,6 @@
 ⚡ Exploring Next.js features  
 🧪 Experimenting with animations + optimization  
 
----
+--
 
 ## ✨ Thanks for visiting my profile!
